@@ -34,7 +34,9 @@
     "@nomicfoundation/hardhat-verify": "^2.0.3",
     "@openzeppelin/contracts": "^4.5.0",
     "babel-eslint": "^10.1.0",
-    "dotenv": "^10.0.0"
+    "create-next-app": "^14.0.4",
+    "dotenv": "^10.0.0",
+    "next": "14.0.1"
   },
   "mocha": {
     "timeout": 10000000
